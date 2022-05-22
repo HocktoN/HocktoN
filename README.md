@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋, Ben Haktan.
+#### Konya Teknik Üniversitesi / Bilgisayar Mühendisliği son sınıf öğrencisiyim. 2022 yazında mezun oluyorum.
+![Konya Teknik Üniversitesi / Bilgisayar Mühendisliği son sınıf öğrencisiyim. 2022 yazında mezun oluyorum.](https://st.myideasoft.com/idea/ct/82/myassets/blogs/python.jpg?revision=1581687707)
 
-<!--
-**HocktoN/HocktoN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python ile Backend, Yapay Zeka(Machine Learning-Deep Learning) ve Data Science başlıca uğraş alanlarım.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/HocktoN)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/haktan-%C3%B6zer-5a8355174//)  
+
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> PYTHON BACKEND (DJANGO - FLASK)
+
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> DEEP LEARNING - OBJECT DETECTION
+
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> MACHINE LEARNING ALGORITHMS 
+
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> COMPUTER VISION (OPENCV)
+
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> WEB SCRAPING (BeautifulSoup - SCRAPY - SELENIUM)
+
+
+
