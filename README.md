@@ -3,7 +3,7 @@
 ![Konya Teknik Üniversitesi / Bilgisayar Mühendisliği son sınıf öğrencisiyim.  2022 yazında mezun oluyorum. C-C#-SQL deneyimim var ancak bir süredir Python ile çalışıyor, Python dili ile bir kariyer düşünüyorum.](https://www.renatocandido.org/en/wordpress/wp-content/uploads/2020/10/7-python-code-examples-for-everyday-use-1200x350-c-default.jpg)
 
 
-Python ile Backend, Yapay Zeka(Machine Learning-Deep Learning), Computer Vision(Bilgisayarlı Görme) Data Science başlıca uğraş alanlarım.
+Python ile Backend, Yapay Zeka(Machine Learning-Deep Learning), Computer Vision(Bilgisayarlı Görme) ve Data Science başlıca uğraş alanlarım.
 
 
 
