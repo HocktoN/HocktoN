@@ -1,6 +1,6 @@
 ### Hi there 👋, Ben Haktan.
 #### Konya Teknik Üniversitesi / Bilgisayar Mühendisliği son sınıf öğrencisiyim. 2022 yazında mezun oluyorum.
-![Konya Teknik Üniversitesi / Bilgisayar Mühendisliği son sınıf öğrencisiyim. 2022 yazında mezun oluyorum.](https://www.renatocandido.org/en/wordpress/wp-content/uploads/2020/10/7-python-code-examples-for-everyday-use-1200x350-c-default.jpg)
+![Konya Teknik Üniversitesi / Bilgisayar Mühendisliği son sınıf öğrencisiyim. 2022 yazında mezun oluyorum. Temel düzeyde C-C#-SQL deneyimim var ancak bir süredir Python dili ile çalışıyorum ve bu alanda bir kariyer düşünüyorum.](https://www.renatocandido.org/en/wordpress/wp-content/uploads/2020/10/7-python-code-examples-for-everyday-use-1200x350-c-default.jpg)
 
 
 Python ile Backend, Yapay Zeka(Machine Learning-Deep Learning) Computer Vision(Bilgisayarlı Görme) Data Science başlıca uğraş alanlarım.
