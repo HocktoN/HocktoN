@@ -1,5 +1,5 @@
 ### MERHABA 👋, Ben Haktan.
-#### Konya Teknik Üniversitesi / Bilgisayar Mühendisliği son sınıf öğrencisiyim.  2022 yazında mezun oluyorum. C-C#-SQL deneyimim var, genel olarak Python ile çalışıyor, Python dili ile bir kariyer düşünüyorum. 
+#### COMPUTER ENGINEER
 ![COMPUTER ENGINEER](https://www.renatocandido.org/en/wordpress/wp-content/uploads/2020/10/7-python-code-examples-for-everyday-use-1200x350-c-default.jpg)
 
 
